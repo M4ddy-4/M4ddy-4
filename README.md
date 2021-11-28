@@ -23,7 +23,8 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
-     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
+    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
+    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png"/></a>
 
 </p>
 
