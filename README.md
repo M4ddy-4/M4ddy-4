@@ -11,7 +11,7 @@
 
 - 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/TheLittleH4ck3r/)**
 
-- 📓 All of my write-up available at **[My Write-up](https://m4ddy-4.medium.com/)**
+- 📓 All of my write-up available at **[My Write-up](https://TheLittleH4ck3r.medium.com/)**
 
 - 📫 How to reach me **cybermaddy7@gmail.com**
 
